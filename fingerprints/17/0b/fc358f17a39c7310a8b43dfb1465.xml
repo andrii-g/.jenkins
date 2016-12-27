@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:46.312 UTC</timestamp>
+  <md5sum>170bfc358f17a39c7310a8b43dfb1465</md5sum>
+  <fileName>net.sourceforge.htmlunit:htmlunit-2.23.jar</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

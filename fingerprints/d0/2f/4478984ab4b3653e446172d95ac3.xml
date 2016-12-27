@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:46.802 UTC</timestamp>
+  <md5sum>d02f4478984ab4b3653e446172d95ac3</md5sum>
+  <fileName>org.eclipse.jetty.websocket:websocket-common-9.2.15.v20160210.jar</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

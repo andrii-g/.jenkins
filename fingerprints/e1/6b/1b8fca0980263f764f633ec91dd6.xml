@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:46.846 UTC</timestamp>
+  <md5sum>e16b1b8fca0980263f764f633ec91dd6</md5sum>
+  <fileName>com.google.code.gson:gson-2.3.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

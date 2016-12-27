@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:45.41 UTC</timestamp>
+  <md5sum>6c9ce8534b9e4c17e5dea7a97425245c</md5sum>
+  <fileName>org.apache.commons:commons-compress-1.9.jar</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

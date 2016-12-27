@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result plugin="junit@1.19">
+  <suites>
+    <suite>
+      <file>C:\Users\User\.jenkins\workspace\Save data test\target\surefire-reports\TEST-TestRunner.xml</file>
+      <name>TestRunner</name>
+      <duration>38.866</duration>
+      <time>38.866</time>
+      <cases>
+        <case>
+          <duration>38.866</duration>
+          <className>TestRunner</className>
+          <testName>test</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>38.866</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

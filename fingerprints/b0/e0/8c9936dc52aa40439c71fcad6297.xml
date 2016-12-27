@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:43.707 UTC</timestamp>
+  <md5sum>b0e08c9936dc52aa40439c71fcad6297</md5sum>
+  <fileName>net.java.dev.jna:jna-4.1.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2016-12-24 21:09:43.355 UTC</timestamp>
+  <original>
+    <name>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</name>
+    <number>2</number>
+  </original>
+  <md5sum>4eff0fd65290fe652244afa1405d3ddf</md5sum>
+  <fileName>jbehave-rozetka-groupid:jbehave-rozetka-artifactid:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>job2/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Save data test/jbehave-rozetka-groupid:jbehave-rozetka-artifactid</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>Save data test</string>
+      <ranges>2-10,12,17-18</ranges>
+    </entry>
+    <entry>
+      <string>job2</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

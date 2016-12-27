@@ -1,0 +1,8 @@
+Started on 27.12.2016 10:59:00
+Using strategy: Default
+[poll] Last Built Revision: Revision 0a4e923b9b8ed6aa5ed899ffd306794afc88b5a2 (refs/remotes/origin/master)
+ > git.exe ls-remote -h https://github.com/andrii-g/jenkins-project.git # timeout=10
+Found 1 remote heads on https://github.com/andrii-g/jenkins-project.git
+[poll] Latest remote head revision on refs/heads/master is: 0a4e923b9b8ed6aa5ed899ffd306794afc88b5a2 - already built by 12
+Done. Took 9 секунд
+No changes

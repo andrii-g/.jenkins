@@ -1,0 +1,7 @@
+Started on 25.12.2016 20:38:00
+Using strategy: Default
+ > git.exe ls-remote -h https://github.com/andrii-g/jenkins-project.git # timeout=10
+Found 1 remote heads on https://github.com/andrii-g/jenkins-project.git
+[poll] Latest remote head revision on refs/heads/master is: 0a4e923b9b8ed6aa5ed899ffd306794afc88b5a2
+Done. Took 1,9 секунды
+Changes found
